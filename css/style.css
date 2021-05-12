@@ -34,7 +34,7 @@ body {
 }
 
 
-.container [type=senha],
+.container [type=password],
 .container [type=name] {
     display: block;
     width: 310px;
