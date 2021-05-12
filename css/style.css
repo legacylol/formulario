@@ -34,7 +34,7 @@ body {
 }
 
 
-.container [type=email],
+.container [type=senha],
 .container [type=name] {
     display: block;
     width: 310px;
